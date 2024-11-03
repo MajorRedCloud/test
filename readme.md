@@ -1,5 +1,2 @@
-## Hello Git
+## Bla bla bla
 
-I'm adding this from test branch
-
-I'm adding this from github
